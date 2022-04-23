@@ -20,5 +20,17 @@ class ViewController: UIViewController {
     @IBAction func clearButtonPushed(_ sender: UIButton) {
     }
     
+    @IBAction func inverseButtonPushed(_ sender: UIButton) {
+    }
+    
+    @IBAction func percentageButtonPushed(_ sender: UIButton) {
+    }
+    
+    @IBAction func numbersPushed(_ sender: UIButton) {
+    }
+    
+    @IBAction func mathSignPushed(_ sender: UIButton) {
+    }
+    
 }
 
